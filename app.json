@@ -1,0 +1,9 @@
+{
+  "expo": {
+    "name": "Nua Products",
+    "slug": "nua-products",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic"
+  }
+}
